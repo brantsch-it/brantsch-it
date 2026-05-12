@@ -81,6 +81,15 @@ Dieses GitHub‑Profil dient als:
 - Beispiele aus Kundenumgebungen (anonymisiert)
 
 ---
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-Expert-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-Identity-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Focus-2E8B57?style=for-the-badge&logo=shield&logoColor=white)
+![Conditional Access](https://img.shields.io/badge/Conditional_Access-Policy-4B8BBE?style=for-the-badge)
+![Intune](https://img.shields.io/badge/Intune-Endpoint_Management-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-012456?style=for-the-badge&logo=powershell&logoColor=white)
+![Exchange Online](https://img.shields.io/badge/Exchange_Online-Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Security_Monitoring-TSM-6A5ACD?style=for-the-badge)
+
 
 ## 📫 Kontakt
 
