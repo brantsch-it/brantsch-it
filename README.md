@@ -14,3 +14,88 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# brantsch.it – Ingenieurbüro für IT‑Lösungen
+
+Hallo, ich bin Helge Brantsch. Ich arbeite als selbständiger IT‑Ingenieur und unterstütze kleine und mittelständische Unternehmen im Rhein‑Neckar‑Raum und im Odenwald.
+
+Ich sorge für stabile und sichere IT‑Umgebungen mit persönlicher Betreuung.
+
+---
+
+## 🧭 Über mich
+
+- über 30 Jahre Erfahrung in der IT
+- Spezialisierung auf Microsoft 365, Entra ID und IT‑Sicherheit
+- langjährige Betreuung von Kanzleien und Dienstleistungsunternehmen
+- Fokus auf klare, verständliche Lösungen, die im Alltag funktionieren
+
+---
+
+## 🛠️ Leistungsbereiche
+
+### Managed Services
+
+- **MSB – Managed Secure Basics**
+  - Patch‑Management
+  - grundlegende Sicherheitsüberwachung
+  - Microsoft 365 Basis‑Absicherung
+
+### Sicherheit
+
+- **TBH – Tenant Basis‑Härtung**
+  - Absicherung von Microsoft 365 Tenants
+  - Conditional Access
+  - Sicherheitsrichtlinien
+
+- **TSM – Tenant Sicherheits‑Monitoring**
+  - Überwachung sicherheitsrelevanter Ereignisse
+  - Auswertung und Bewertung
+  - Unterstützung bei Vorfällen
+
+### Flexible Leistungen
+
+- **FLEX**
+  - Projektarbeit
+  - Erweiterungen
+  - individuelle Anforderungen
+
+---
+
+## 🔧 Technische Schwerpunkte
+
+- Microsoft 365 / Entra ID
+- Intune / Endpoint Management
+- E-Mail-Lösungen / Exchange
+- Hybrid AD / Cloud‑Integration
+- Security Monitoring und Log‑Auswertung
+
+---
+
+## 📂 Projekte und Inhalte
+
+Dieses GitHub‑Profil dient als:
+
+- technische Dokumentation
+- Sammlung von Skripten (z. B. PowerShell)
+- Vorlagen für Konfigurationen
+- Beispiele aus Kundenumgebungen (anonymisiert)
+
+---
+
+## 📫 Kontakt
+
+- E‑Mail: support@brantsch.it  
+- Website: https://www.brantsch.it  
+
+---
+
+## 🧩 Arbeitsweise
+
+- direkte und persönliche Kommunikation
+- transparente Leistungen und Abrechnung
+- Fokus auf langfristige Zusammenarbeit und kontinuierliche Betreuung
+- Lösungen, die im täglichen Betrieb zuverlässig funktionieren
+
+---
+
+*Dieses Profil wird laufend ergänzt und weiterentwickelt.*
