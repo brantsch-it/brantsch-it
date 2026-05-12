@@ -76,7 +76,7 @@ Ich sorge für stabile und sichere IT‑Umgebungen mit persönlicher Betreuung.
 Dieses GitHub‑Profil dient als:
 
 - technische Dokumentation
-- Sammlung von Skripten (z. B. PowerShell)
+- Sammlung von Skripten
 - Vorlagen für Konfigurationen
 - Beispiele aus Kundenumgebungen (anonymisiert)
 
